@@ -1,3 +1,5 @@
-XML:
-JSON:
-YML:
+XML: XML é um formato de dados que foi consolidado pelo W3C, sendo iniciados estudos em meados das décadas de 1990. O objetivo era criar um tipo de formato que poderia ser lido por software e que tivesse flexibilidade e simplicidade, visando, entre outras coisas:
+– Possibilidade de criação de tags (você é quem cria as tags)
+– Concentração na estrutura da informação e não em sua aparência
+JSON:JSON, um acrônimo para “JavaScript Object Notation”, é um formato de padrão aberto que utiliza texto legível a humanos para transmitir objetos de dados consistindo de pares atributo-valor.
+YML: O YAML é uma linguagem de serialização de dados muito usada na escrita de arquivos de configuração. Dependendo, a sigla YAML pode significar em inglês yet another markup language (mais uma linguagem de marcação) ou YAML ain’t markup language (YAML não é linguagem de marcação) [acrônimo recorrente]. Ambos destacam que o YAML é voltado para os dados, e não documentos. Como linguagem de programação, o YAML é famoso por ser legível e fácil de entender. Ele também pode ser utilizado com outras linguagens de programação.
